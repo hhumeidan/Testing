@@ -72,6 +72,8 @@ class FetchingActivity : AppCompatActivity() {
 
 
 
+
+
                             //put extras
                             intent.putExtra("empId", empList[position].empId)
                             intent.putExtra("empId2", empList[position].empId)
