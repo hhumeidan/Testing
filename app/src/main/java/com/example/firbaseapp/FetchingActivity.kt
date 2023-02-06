@@ -79,6 +79,7 @@ class FetchingActivity : AppCompatActivity() {
                             intent.putExtra("empAge", empList[position].empAge)
                             intent.putExtra("empSalary", empList[position].empSalary)
                             startActivity(intent)
+
                         }
 
                     })
