@@ -1,0 +1,162 @@
+{
+  "project_info": {
+    "project_number": "817478854827",
+    "project_id": "fireapp-78f93",
+    "storage_bucket": "fireapp-78f93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817478854827:android:21d8a459a040c18a5cefee",
+        "android_client_info": {
+          "package_name": "com.dummy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817478854827-4clv633g4u7a06eha19fc8nanib1f3c6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1vyx-7drwOAtgTkLE2Bk-DhFiwFLZmQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817478854827-4clv633g4u7a06eha19fc8nanib1f3c6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "817478854827-6pjuf74k097ggoivqunl8kr8s1o0hdmt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.weatherforcasting"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817478854827:android:5bb0ef5a61acd4855cefee",
+        "android_client_info": {
+          "package_name": "com.example.bizcard2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817478854827-4clv633g4u7a06eha19fc8nanib1f3c6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1vyx-7drwOAtgTkLE2Bk-DhFiwFLZmQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817478854827-4clv633g4u7a06eha19fc8nanib1f3c6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "817478854827-6pjuf74k097ggoivqunl8kr8s1o0hdmt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.weatherforcasting"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817478854827:android:fdb15fe8180ac43d5cefee",
+        "android_client_info": {
+          "package_name": "com.example.firbaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817478854827-k3f143t74bpul2tbfkhakdqt9qgngdni.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firbaseapp",
+            "certificate_hash": "0657aa8eda60db3016f712169a66b4a474f8c77c"
+          }
+        },
+        {
+          "client_id": "817478854827-4clv633g4u7a06eha19fc8nanib1f3c6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1vyx-7drwOAtgTkLE2Bk-DhFiwFLZmQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817478854827-4clv633g4u7a06eha19fc8nanib1f3c6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "817478854827-6pjuf74k097ggoivqunl8kr8s1o0hdmt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.weatherforcasting"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817478854827:android:dd920931ed5fa7a25cefee",
+        "android_client_info": {
+          "package_name": "com.example.weatherforcasting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817478854827-4clv633g4u7a06eha19fc8nanib1f3c6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1vyx-7drwOAtgTkLE2Bk-DhFiwFLZmQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817478854827-4clv633g4u7a06eha19fc8nanib1f3c6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "817478854827-6pjuf74k097ggoivqunl8kr8s1o0hdmt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.weatherforcasting"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
