@@ -16,7 +16,7 @@ import com.google.firebase.database.*
 class FetchingActivity : AppCompatActivity() {
 
 
-    
+
 
     private lateinit var empRecyclerView: RecyclerView
     private lateinit var tvLoadingData: TextView
@@ -72,15 +72,14 @@ class FetchingActivity : AppCompatActivity() {
 
 
 
-
-
                             //put extras
                             intent.putExtra("empId", empList[position].empId)
-                            intent.putExtra("empId2", empList[position].empId)
+                            intent.putExtra("empId3", empList[position].empId)
                             intent.putExtra("empName", empList[position].empName)
                             intent.putExtra("empAge", empList[position].empAge)
                             intent.putExtra("empSalary", empList[position].empSalary)
                             startActivity(intent)
+
                         }
 
                     })
