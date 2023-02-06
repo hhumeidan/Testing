@@ -67,8 +67,11 @@ class FetchingActivity : AppCompatActivity() {
 
                             val intent = Intent(this@FetchingActivity, EmployeeDetailsActivity::class.java)
 
+
+
                             //put extras
                             intent.putExtra("empId", empList[position].empId)
+                            intent.putExtra("empId2", empList[position].empId)
                             intent.putExtra("empName", empList[position].empName)
                             intent.putExtra("empAge", empList[position].empAge)
                             intent.putExtra("empSalary", empList[position].empSalary)
