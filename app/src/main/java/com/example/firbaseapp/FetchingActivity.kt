@@ -15,6 +15,9 @@ import com.google.firebase.database.*
 
 class FetchingActivity : AppCompatActivity() {
 
+
+    
+
     private lateinit var empRecyclerView: RecyclerView
     private lateinit var tvLoadingData: TextView
     private lateinit var empList: ArrayList<EmployeeModel>
